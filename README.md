@@ -1,9 +1,6 @@
 # Awesome-Cross-Domain-Person-Re-identification[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
 ## Paper list
-
-
 
 ### Year 2020
 
@@ -37,6 +34,8 @@
 
 9. Li, Yu-Jhe, et al. "Cross-dataset person re-identification via unsupervised pose disentanglement and adaptation." *Proceedings of the IEEE International Conference on Computer Vision*. 2019.[[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Cross-Dataset_Person_Re-Identification_via_Unsupervised_Pose_Disentanglement_and_Adaptation_ICCV_2019_paper.pdf)]
 
+10. Zhang, Chengyuan, Lin Wu, and Yang Wang. "Crossing generative adversarial networks for cross-view person re-identification." *Neurocomputing* 340 (2019): 259-269.[[Paper](https://arxiv.org/pdf/1801.01760.pdf)]
+
 ### Year 2018
 
 1. Fan, Hehe, et al. "Unsupervised person re-identification: Clustering and fine-tuning." *ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)* 14.4 (2018): 1-18.[[Paper](https://arxiv.org/pdf/1705.10444)] [[Code](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)]
@@ -47,17 +46,15 @@
 
 4. Wang, Jingya, et al. "Transferable joint attribute-identity deep learning for unsupervised person re-identification." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*. 2018.[[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Transferable_Joint_Attribute-Identity_CVPR_2018_paper.pdf)]
 
-5. Zhang, Chengyuan, Lin Wu, and Yang Wang. "Crossing generative adversarial networks for cross-view person re-identification." *Neurocomputing* 340 (2019): 259-269.[[Paper](https://arxiv.org/pdf/1801.01760.pdf)]
+5. Zhong, Zhun, et al. "Camera style adaptation for person re-identification." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*. 2018.[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhong_Camera_Style_Adaptation_CVPR_2018_paper.pdf)] [[Code](https://github.com/zhunzhong07/CamStyle)]
 
-6. Zhong, Zhun, et al. "Camera style adaptation for person re-identification." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*. 2018.[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhong_Camera_Style_Adaptation_CVPR_2018_paper.pdf)] [[Code](https://github.com/zhunzhong07/CamStyle)]
+6. Choi, Yunjey, et al. "Stargan: Unified generative adversarial networks for multi-domain image-to-image translation." *Proceedings of the IEEE conference on computer vision and pattern recognition*. 2018.[[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf)] [[Code](https://github.com/cosmic119/StarGAN)]
 
-7. Choi, Yunjey, et al. "Stargan: Unified generative adversarial networks for multi-domain image-to-image translation." *Proceedings of the IEEE conference on computer vision and pattern recognition*. 2018.[[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf)] [[Code](https://github.com/cosmic119/StarGAN)]
+7. Huang, Houjing, et al. "Enhancing alignment for cross-domain person reidentification." *arXiv preprint arXiv:1812.11369* (2018).[[Paper](https://arxiv.org/pdf/1812.11369.pdf)] [[Code](https://github.com/huanghoujing/EANet)]
 
-8. Huang, Houjing, et al. "Enhancing alignment for cross-domain person reidentification." *arXiv preprint arXiv:1812.11369* (2018).[[Paper](https://arxiv.org/pdf/1812.11369.pdf)] [[Code](https://github.com/huanghoujing/EANet)]
+8. Lv, Jianming, et al. "Unsupervised cross-dataset person re-identification by transfer learning of spatial-temporal patterns." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*. 2018.[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lv_Unsupervised_Cross-Dataset_Person_CVPR_2018_paper.pdf)] [[Code](https://github.com/ahangchen/TFusion)]
 
-9. Lv, Jianming, et al. "Unsupervised cross-dataset person re-identification by transfer learning of spatial-temporal patterns." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*. 2018.[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lv_Unsupervised_Cross-Dataset_Person_CVPR_2018_paper.pdf)] [[Code](https://github.com/ahangchen/TFusion)]
-
-10. Lin, Shan, et al. "Multi-task mid-level feature alignment network for unsupervised cross-dataset person re-identification." *arXiv preprint arXiv:1807.01440* (2018).[[Paper](https://arxiv.org/pdf/1807.01440)] 
+9. Lin, Shan, et al. "Multi-task mid-level feature alignment network for unsupervised cross-dataset person re-identification." *arXiv preprint arXiv:1807.01440* (2018).[[Paper](https://arxiv.org/pdf/1807.01440)] 
 
 ### Year 2017
 

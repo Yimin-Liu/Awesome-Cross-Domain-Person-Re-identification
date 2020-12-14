@@ -1,5 +1,7 @@
 # Awesome-Cross-Domain-Person-Re-identification[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+![DomainGap](https://github.com/Yimin-Liu/Awesome-Cross-Domain-Person-Re-identification/blob/main/DomainGap.png)
+
 ## KeyWords
 
 Transfer learning, Cross dataset, Unsupervised, Person Reidentification
@@ -59,6 +61,8 @@ Transfer learning, Cross dataset, Unsupervised, Person Reidentification
 9. Li, Yu-Jhe, et al. "Cross-dataset person re-identification via unsupervised pose disentanglement and adaptation." *Proceedings of the IEEE International Conference on Computer Vision*. 2019.[[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Cross-Dataset_Person_Re-Identification_via_Unsupervised_Pose_Disentanglement_and_Adaptation_ICCV_2019_paper.pdf)]
 
 10. Zhang, Chengyuan, Lin Wu, and Yang Wang. "Crossing generative adversarial networks for cross-view person re-identification." *Neurocomputing* 340 (2019): 259-269.[[Paper](https://arxiv.org/pdf/1801.01760.pdf)]
+
+11. Yu, Hong Xing , et al. "Unsupervised Person Re-Identification by Soft Multilabel Learning." *2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)* IEEE, 2019.[[Paper](https://arxiv.org/abs/1903.06325)] [[Code](https://github.com/KovenYu/MAR)]
 
 ### Year 2018
 

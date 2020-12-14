@@ -16,7 +16,7 @@ Transfer learning, Cross dataset, Unsupervised, Person Reidentification
 - [Duke to Market](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-duke-to)
 - [Market to Duke](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-market-to)
 - [Market to MSMT](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-market-to-1)
-- [Duke to MSMT](
+- [Duke to MSMT](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-duke-to-1)
 
 ## Methods
 

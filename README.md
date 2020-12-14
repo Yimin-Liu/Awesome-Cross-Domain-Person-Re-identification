@@ -11,6 +11,13 @@ Transfer learning, Cross dataset, Unsupervised, Person Reidentification
 - Duke Leaderboard [[page](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/leaderboard)]
 - Re-id dataset collection [[page](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)]
 
+## Benchmarks
+
+- [Duke to Market](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-duke-to)
+- [Market to Duke](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-market-to)
+- [Market to MSMT](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-market-to-1)
+- [Duke to MSMT](
+
 ## Methods
 
 1. Unsupervised clustering

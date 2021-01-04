@@ -33,14 +33,11 @@ Transfer learning, Cross dataset, Unsupervised, Person Reidentification
 ### Year 2020
 
 1. Zou, Yang, et al. "Joint disentangling and adaptation for cross-domain person re-identification." *arXiv preprint arXiv:2007.10315* (2020)..[[Paper](https://arxiv.org/pdf/2007.10315.pdf)]
-
 2. Jin, Xin, et al. "Global Distance-distributions Separation for Unsupervised Person Re-identification." *arXiv preprint arXiv:2006.00752* (2020).[[Paper](https://arxiv.org/pdf/2006.00752.pdf)]
-
 3. Ge, Yixiao, Dapeng Chen, and Hongsheng Li. "Mutual mean-teaching: Pseudo label refinery for unsupervised domain adaptation on person re-identification." *arXiv preprint arXiv:2001.01526* (2020).[[Paper](https://arxiv.org/pdf/2001.01526)] [[Code](https://github.com/yxgeee/MMT)] 
-
 4. Zhang, Xinyu, et al. "Memorizing Comprehensively to Learn Adaptively: Unsupervised Cross-Domain Person Re-ID with Multi-level Memory." *arXiv preprint arXiv:2001.04123* (2020).[[Paper](https://arxiv.org/pdf/2001.04123.pdf)]
-
 5. Yang, Fengxiang, et al. "Asymmetric Co-Teaching for Unsupervised Cross-Domain Person Re-Identification." *AAAI*. 2020.[[Paper](https://arxiv.org/pdf/1912.01349)]
+6. Li, Jianing, and Shiliang Zhang. "Joint Visual and Temporal Consistency for Unsupervised Domain Adaptive Person Re-Identification." *European Conference on Computer Vision*. Springer, Cham, 2020.[[Paper](https://arxiv.org/pdf/2007.10854.pdf)]
 
 ### Year 2019
 
